@@ -12,7 +12,7 @@
 
 /* ELEMENTS */
 footer {background:#003366; color:#ffffff; padding:20px 10px 10px 10px; text-align:center;}
-header {border-bottom:2px #0088cc solid; margin:0 0 20px 0; text-align:center;}
+header {background:#000000; border-bottom:2px #0088cc solid; margin:0; text-align:center;}
 hr {border:1px #0088cc solid;} 
 noscript h2 {background:#003366; color:#ffffff; font-weight:bold; margin:0; padding:10px; text-align:center;}
 table {width:100%;}
