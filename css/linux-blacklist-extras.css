@@ -10,8 +10,13 @@
 .red {color:#ff0000;}
 .white {color:#ffffff;}
 
+/* COOLWALL */
+.coolwall {background:#000000; text-align:center;} 
+.coolwall-xs-spacer {border:20px #232323 solid;}
+.sticker {border:10% #000000 solid; width:90%; margin-bottom:40px;}
+
 /* ELEMENTS */
-footer {background:#003366; color:#ffffff; padding:20px 10px 10px 10px; text-align:center;}
+footer {background:#003366; color:#ffffff; margin-top:20px; padding:20px 10px 10px 10px; text-align:center;}
 header {background:#000000; border-bottom:2px #0088cc solid; margin:0; text-align:center;}
 hr {border:1px #0088cc solid;} 
 noscript h2 {background:#003366; color:#ffffff; font-weight:bold; margin:0; padding:10px; text-align:center;}
