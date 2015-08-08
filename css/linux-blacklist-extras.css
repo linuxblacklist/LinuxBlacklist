@@ -17,7 +17,7 @@
 
 /* ELEMENTS */
 footer {border-top:2px #0088cc solid; color:#ffffff; margin-top:20px; padding:20px; text-align:center;}
-header {border-bottom:2px #0088cc solid; margin:0; text-align:center;}
+header {border-bottom:2px #0088cc solid; margin-bottom:20px; text-align:center;}
 hr {border:1px #0088cc solid;} 
 noscript h2 {background:#003366; color:#ffffff; font-weight:bold; margin:0; padding:10px; text-align:center;}
 table {width:100%;}
